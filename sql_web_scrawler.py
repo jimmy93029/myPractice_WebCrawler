@@ -8,3 +8,8 @@ for product in data['prods']:
     price = product['price']
     print(name)
     print(price)
+<<<<<<< HEAD
+=======
+
+# for practice
+>>>>>>> fb58444312edfb9d0e15bcbb7be9cf4ac9ea3aad
