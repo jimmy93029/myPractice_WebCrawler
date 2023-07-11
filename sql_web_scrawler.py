@@ -13,3 +13,6 @@ for product in data['prods']:
 
 # for practice
 >>>>>>> fb58444312edfb9d0e15bcbb7be9cf4ac9ea3aad
+
+
+# make 'merge conflict 2'
